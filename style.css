@@ -32,4 +32,32 @@ p{font-family: "quokka", sans-serif;
         position:relative;
         top:1px;
     }
-    
+.navbar-expand-lgbg-body-tertiary{
+    background-color:#605C4E ;
+}
+.card-title{font-family: "sztos-variable", sans-serif;
+font-variation-settings: "wdth" 100, "wght" 400;}
+
+.dropdown-item{
+    font-family: "sztos-variable", sans-serif;
+font-variation-settings: "wdth" 100, "wght" 400;
+
+}
+body{
+    background-color: #e9e2cc;
+}
+
+.navbar {
+    background: #757267;
+}
+.navbar-text{
+    font-family: "sztos-variable", sans-serif;
+font-variation-settings: "wdth" 100, "wght" 400;
+font-size: 30px;
+}
+
+.nav-item {
+    font-family: "sztos-variable", sans-serif;
+font-variation-settings: "wdth" 100, "wght" 400;
+font-size: 30px;
+}
